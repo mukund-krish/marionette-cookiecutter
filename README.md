@@ -25,5 +25,5 @@ you entered for ```repo_name```.
 6. Now you are ready to write code!. To start the webpack development server, type ...
 
    ```
-   $> ./node_modules/.bin/webpack-dev-server --inline
+   ./node_modules/.bin/webpack-dev-server --inline
    ```
