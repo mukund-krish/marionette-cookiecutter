@@ -12,7 +12,7 @@ Cookiecutter template for Marionette+webpack project in coffeescript
 by cookiecutter.
 
    ```
-   cookiecutter git@github.com:mukund-krish/marionette-cookiecutter.git
+   cookiecutter https://github.com/mukund-krish/marionette-cookiecutter.git
    ```
 
 3. You should now have the project generated in a new folder with the name
